@@ -1,0 +1,26 @@
+# Build build
+bin/
+obj/
+
+# Cache paket NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Database lokal
+*.db
+
+# Mac OS / Linux
+.DS_Store
